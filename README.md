@@ -38,5 +38,23 @@
   
 ## 프로젝트 사용 방법
 
-![도서관리 메인](https://github.com/user-attachments/assets/4ac4af15-dd6e-4772-8ba2-aa6ef1141a3a)
-## 개발 기간 및 작업 관리
+- ### 도서관리 프로젝트   
+    **1. eclipse에서 Library 파일을 클릭합니다** 
+
+    **2. Library 파일에서 public static void main(String[] args) {} 메소드 확인 후 run(control + F11) 실행 합니다.**
+
+     ![도서관리 메인](https://github.com/user-attachments/assets/4ac4af15-dd6e-4772-8ba2-aa6ef1141a3a)
+
+   **3. console 화면에서 원하는 작업을 번호로 선택합니다.**
+
+    ![1번 메소드](https://github.com/user-attachments/assets/af2ebfcb-3e80-4f69-b814-ac19435375fa)
+    ![2번 메소드](https://github.com/user-attachments/assets/c5f080f2-b0f3-4ecf-9f51-0e30e656e2ce)
+
+  **4. 번호를 잘못 눌렀을 시 x를 입력하면 메인 화면으로 돌아가게 됩니다.**
+
+     ![돌아가기](https://github.com/user-attachments/assets/503391c6-b9f5-425c-af75-4da212e20fe3)
+   
+  **5. 작업을 종료하려면 숫자 '6'을 입력하거나 console 우측의 빨간 버튼을 눌를 시 종료 됩니다.**
+
+  ![종료](https://github.com/user-attachments/assets/82c54380-eedb-4644-82e0-d32105543816)
+      
